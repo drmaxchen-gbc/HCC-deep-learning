@@ -1,0 +1,18 @@
+{
+":dataSubType": "phenotype", 
+"cohort": "TCGA Liver Cancer", 
+"wrangler": "cgData TCGAscript Clinical processed on 2015-02-24,cgData TCGAscript survival processed on 2015-02-24,cgData TCGAscript Clinical processed on 2015-02-24,cgData TCGAscript Clinical processed on 2015-02-24,cgData TCGAscript Clinical processed on 2015-02-24", 
+":clinicalFeature": "LIHC_clinicalFeature", 
+"url": "https://tcga-data.nci.nih.gov/tcgafiles/ftp_auth/distro_ftpusers/anonymous/tumor/lihc/bcr/", 
+"type": "clinicalMatrix", 
+"description": "This dataset is the TCGA Liver Cancer (LIHC) clinical data.", 
+":sampleMap": "TCGA.LIHC.sampleMap", 
+"label": "Phenotypes", 
+"upToDate": "4.0_nte,4.0", 
+"version": "2015-02-24", 
+"dataProducer": "TCGA biospecimen core resource,UCSC,https://www.synapse.org/#!Synapse:syn1756922,TCGA biospecimen core resource,https://www.synapse.org/#!Synapse:2027079,https://www.synapse.org/#!Synapse:syn1715788,https://www.synapse.org/#!Synapse:syn1712142,https://www.synapse.org/#!Synapse:1875816,TCGA biospecimen core resource,https://www.synapse.org/#!Synapse:syn2492003,TCGA biospecimen core resource,https://www.synapse.org/#!Synapse:syn2487022", 
+"redistribution": true, 
+"cgDataVersion": 1, 
+"wrangling_procedure": "Clinical data download from TCGA DCC, processed at UCSC into cgData repository,https://groups.google.com/forum/?fromgroups#!topic/ucsc-cancer-genomics-browser/YvKnWZSsw1Q,Clinical data download from TCGA DCC, processed at UCSC into cgData repository,Clinical data download from TCGA DCC, processed at UCSC into cgData repository,Clinical data download from TCGA DCC, processed at UCSC into cgData repository", 
+"name": "LIHC_clinicalMatrix"
+}
