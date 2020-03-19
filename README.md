@@ -2,6 +2,8 @@
  <br/>
 Details for this paper named "Classification and mutation prediction based on histopathology H&E images in liver cancer using deep learning"
 
+------------------------------------------------------------------------------------------------------
+
 ## Contents
 
 ### Prerequisites
@@ -15,7 +17,7 @@ Details for this paper named "Classification and mutation prediction based on hi
 ### Performance of the model  
 ### Performance evaluation
 
-
+--------------------------------------------------------------------------------------------------------
 
 ### Prerequisites
 
