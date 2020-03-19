@@ -174,7 +174,7 @@ In this part, thanks to EASL DL team for helping us reword the codes; Thanks to 
 --------------------------------------------------------------------------------------------------------
 
 ### Method 2
-The detail about using EASL DL stey by step were summarized in the [Supplemental text](https://pan.baidu.com/s/1DSWbDQCOfZb6p0kWtvw0RA)
+The detail about using EASL DL stey by step were summarized in the [Supplemental text](https://github.com/drmaxchen-gbc/HCC-deep-learning/blob/master/04_example_introduction/How_to_used_EASL_DL.pdf)
 
 --------------------------------------------------------------------------------------------------------
 
