@@ -1,9 +1,11 @@
 # HCC
  <br/>
-Details for this paper named "Classification and mutation prediction based on histopathology H&E images in liver cancer using deep learning"
-
+You can cite our work as follows. <br/>
+ Chen, M., Zhang, B., Topatana, W. et al. Classification and mutation prediction based on histopathology H&E images in liver cancer using deep learning. npj Precis. Onc. 4, 14 (2020). https://doi.org/10.1038/s41698-020-0120-3
+  <br/>
+ 
 ------------------------------------------------------------------------------------------------------
-
+Details for this paper named "Classification and mutation prediction based on histopathology H&E images in liver cancer using deep learning" <br/>
 ## Contents
 
 ### Prerequisites
